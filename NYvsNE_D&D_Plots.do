@@ -1,4 +1,3 @@
-cd "C:\Users\mawal\OneDrive - Binghamton University\Desktop\My Papers\Papers\Fusion\Data"
 use Northeast_noCTVT /* csv file saved in git hub repository */
 
 
